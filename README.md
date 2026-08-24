@@ -1,18 +1,18 @@
-# GPU Memory Optimization for Shallow Neural Network Training
+# GPU Optimization for Shallow Neural Network Training using CUDA
 
-A neural-network training project implemented in C, pthreads, CUDA, and optimized CUDA.
+A neural-network training project implemented in C, pthreads, CUDA.
 
 ## Requirements
 
-- GCC with OpenMP support
-- NVIDIA CUDA Toolkit (`nvcc`) and a CUDA-capable GPU for CUDA versions
+- GCC with OpenMP support.
+- NVIDIA CUDA Toolkit (`nvcc`) and a CUDA-capable GPU for CUDA versions.
 
 ## Project layout
 
-- `refrence/` — sequential, pthreads, and baseline CUDA implementations
-- `alternative/` — optimized CUDA implementation
-- `refrence/data/` — CSV datasets
-- `project_paper.pdf` — project report
+- `refrence/` — sequential, pthreads, and baseline CUDA implementations.
+- `alternative/` — optimized CUDA implementation.
+- `refrence/data/` — CSV datasets.
+- `project_paper.pdf` — project report.
 
 ## Run
 
