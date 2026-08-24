@@ -1,4 +1,4 @@
-# HPC Neural Network Project
+# GPU Memory Optimization for Shallow Neural Network Training
 
 A neural-network training project implemented in C, pthreads, CUDA, and optimized CUDA.
 
